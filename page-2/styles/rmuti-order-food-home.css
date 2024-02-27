@@ -1,0 +1,479 @@
+
+html {
+	font-size:62.5%;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.rmuti-order-food-home-gRV {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede6;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK {
+  width: 37.35rem;
+  height: 14.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .rectangle-12-ZEP {
+  width: 36rem;
+  height: 12.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .rectangle-8-up3 {
+  width: 32.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 10.2rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .searchfind3519-1-qhh {
+  width: 2.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 2.5rem;
+  top: 10.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .line-3-AV5 {
+  width: 24.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 6.2rem;
+  top: 13.3rem;
+  background-color: #000000;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .item--gyD {
+  width: 8.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 5.05rem;
+  top: 11.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .item--kCP {
+  width: 11.9rem;
+  height: 1.4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 25.45rem;
+  top: 7.3rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu {
+  width: 36rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP {
+  box-sizing: border-box;
+  padding: 1.3rem 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts {
+  width: 100%;
+  height: 7.4rem;
+  position: relative;
+  overflow: hidden;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .ellipse-1-Rxj {
+  width: 4.1rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 30.7rem;
+  top: 0;
+  background-color: #f7ede6;
+  border-radius: 2.05rem;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .login-avatar-1-MbV {
+  width: 3.7rem;
+  height: 3.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 30.9rem;
+  top: 0.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .rectangle-73-5Gb {
+  width: 8.5rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 27.2rem;
+  top: 5.8rem;
+  background-color: #ffffff;
+  border-radius: 0.6rem;
+  font-family: Inter, 'Source Sans Pro';
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .cart-1-QJs {
+  width: 1.9rem;
+  height: 1.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 24.6rem;
+  top: 5.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .frame-2-w3u {
+  box-sizing: border-box;
+  padding: 1.2rem 0rem 0.7rem 1.6rem;
+  width: 34.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .frame-2-w3u .frame-6-EYo {
+  margin-right: 17.1rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0.65rem 0.3rem 0.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .frame-2-w3u .frame-6-EYo .r-2-m2w {
+  margin-right: 0.25rem;
+  width: 2.2rem;
+  height: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .frame-2-w3u .frame-6-EYo .rmuti-order-food-6L7 {
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-hamd-DgK .frame-3-bTu .frame-4-LgP .frame-5-5ts .frame-2-w3u .chayangkoonta-am5 {
+  margin-top: 1.4rem;
+  text-align: center;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB {
+  box-sizing: border-box;
+  padding: 2rem 1.15rem 3.4rem 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-skmr-27H {
+  margin: 0rem 16.15rem 2.5rem 0rem;
+  width: calc(100% - 16.15rem);
+  height: 3.1rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-skmr-27H .auto-group-xpoy-wV9 {
+  margin-right: 0.1rem;
+  width: 9.7rem;
+  height: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fbc95c;
+  border-radius: 5.1rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-skmr-27H .auto-group-sbur-cbH {
+  width: 7.3rem;
+  height: 1.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-skmr-27H .auto-group-sbur-cbH .rectangle-26-AMu {
+  width: 6.3rem;
+  height: 1.7rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.5rem;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 5.1rem;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-skmr-27H .auto-group-sbur-cbH .item--toh {
+  width: 7.3rem;
+  height: 1.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj {
+  margin: 0rem 0.65rem 1rem 0rem;
+  width: calc(100% - 0.65rem);
+  height: 7.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-tmsx-hFM {
+  box-sizing: border-box;
+  padding: 0.2rem 1.4rem 0rem 0rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.4rem;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-tmsx-hFM .ellipse-2-c7R {
+  width: 7.1rem;
+  height: 7.1rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2-bg.png');
+  border-radius: 3.55rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-tmsx-hFM .ellipse-3-WyV {
+  width: 7.1rem;
+  height: 7.1rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-3-bg.png');
+  border-radius: 3.55rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-tmsx-hFM .ellipse-4-3Cj {
+  width: 7.1rem;
+  height: 7.1rem;
+  cursor: pointer;
+  background-color: #d9d9d9;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-4-bg.png');
+  border-radius: 3.55rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-ecjq-MjD {
+  width: 7.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-ecjq-MjD .ellipse-5-uVq {
+  width: 7.1rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  background-color: #d9d9d9;
+  border-radius: 3.55rem;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-m7yb-aAj .auto-group-ecjq-MjD .image-7-3M9 {
+  width: 7.1rem;
+  height: 7.3rem;
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 166.337% 100%;
+  background-position: -2.405rem 0;
+  background-image: url('../assets/image-7.png');
+  border-radius: 3.65rem;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-fefr-vvj {
+  margin: 0rem 0rem 3.5rem 1.35rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-fefr-vvj .item--s5H {
+  margin-right: 4.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-fefr-vvj .item--B5y {
+  margin-right: 4rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-fefr-vvj .item--Heo {
+  margin-right: 3rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-fefr-vvj .item--z3R {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-clzm-tPh {
+  margin: 0rem 0.45rem 2.8rem 0rem;
+  width: calc(100% - 0.45rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-clzm-tPh .rectangle-20-RPd {
+  margin-right: 5.8rem;
+  width: 13.5rem;
+  height: 10.2rem;
+  background-image: url('../assets/rectangle-20-bg.png');
+  background-repeat: repeat;
+  background-size: 100% 100%;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-clzm-tPh .rectangle-21-jfD {
+  width: 13.5rem;
+  height: 10.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-6ghu-sFd {
+  margin-bottom: 2.8rem;
+  width: 8.9rem;
+  height: 2.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fbc95c;
+  border-radius: 5.1rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-j1vp-k4X {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-j1vp-k4X .rectangle-23-hkT {
+  margin-right: 1.7rem;
+  width: 9.8rem;
+  height: 7.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-j1vp-k4X .rectangle-24-RAf {
+  margin-right: 1.4rem;
+  width: 9.8rem;
+  height: 7.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.rmuti-order-food-home-gRV .auto-group-r7ix-JSB .auto-group-j1vp-k4X .rectangle-25-LoR {
+  width: 9.8rem;
+  height: 7.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

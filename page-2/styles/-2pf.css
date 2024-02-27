@@ -1,0 +1,136 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.item--dLB {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede6;
+}
+.item--dLB .auto-group-ehhz-6zT {
+  margin-bottom: 3.3rem;
+  width: 36.5rem;
+  height: 11rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--dLB .auto-group-ehhz-6zT .rectangle-13-SYX {
+  width: 36rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.item--dLB .auto-group-ehhz-6zT .item--n6b {
+  width: 17.3rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 2.5rem;
+  font-size: 3.6rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--dLB .auto-group-ehhz-6zT .item--4K1 {
+  width: 35.2rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 7.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--dLB .auto-group-ehhz-6zT .rectangle-54-6Fh {
+  width: 36rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9rem;
+  background-color: #f7ede6;
+  border-radius: 2.5rem;
+}
+.item--dLB .item--dFd {
+  margin-left: 3.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--dLB .auto-group-zoeo-7wV {
+  box-sizing: border-box;
+  padding: 2.1rem 6.2rem 8rem 7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item--dLB .auto-group-zoeo-7wV .maxresdefault-1-EWK {
+  margin: 0rem 0.8rem 0.2rem 0rem;
+  width: 22rem;
+  height: 14rem;
+  cursor: pointer;
+  position: relative;
+  background-size: 111.264% 101.012%;
+  background-position: -1.4667rem -0.0065rem;
+  background-image: url('../assets/maxresdefault-1-TeX.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.item--dLB .auto-group-zoeo-7wV .item--5mq {
+  margin: 0rem 0rem 2.9rem 4.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--dLB .auto-group-zoeo-7wV .image-4-B4B {
+  margin: 0rem 0.8rem 0.9rem 0rem;
+  width: 22rem;
+  height: 13.6rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.item--dLB .auto-group-zoeo-7wV .item--VKm {
+  margin-left: 5.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

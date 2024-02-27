@@ -1,0 +1,647 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.item--RM9 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede6;
+
+  .auto-group-c4vm-7Dy {
+    margin-bottom: 2.9rem;
+    width: 36.6rem;
+    height: 16.7rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .rectangle-13-D27 {
+      background-color: #7fc06c;
+      width: 36rem;
+      height: 15.3rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+    }
+    .rectangle-24-wD1 {
+      vertical-align: top;
+      opacity: 0.07;
+      width: 35.8rem;
+      height: 15.3rem;
+      position: absolute;
+      left: 0.2rem;
+      top: 0;
+      object-fit: cover;
+    }
+    .rectangle-28-FUb {
+      width: 17.7rem;
+      height: 2.8rem;
+      position: absolute;
+      left: 9.1rem;
+      top: 13.9rem;
+      background-color: #fbc95c;
+      border-radius: 2rem;
+    }
+    .menu-aFy {
+      font-family: Inter, 'Source Sans Pro';
+      position: absolute;
+      line-height: 1.2125;
+      color: #ffffff;
+      top: 3.2rem;
+      font-size: 3.2rem;
+      font-weight: 700;
+      white-space: nowrap;
+      width: 9.6rem;
+      height: 3.9rem;
+      left: 2.5rem;
+    }
+    .searchfind3519-1-4S3 {
+      vertical-align: top;
+      width: 1.3rem;
+      height: 1.4rem;
+      position: absolute;
+      left: 10rem;
+      top: 14.6rem;
+      object-fit: cover;
+    }
+    .rectangle-29-aQP {
+      border-radius: 2rem;
+      width: 14.3rem;
+      height: 2rem;
+      position: absolute;
+      left: 11.8rem;
+      top: 14.3rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .item--6Nj {
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      height: 1.7rem;
+      position: absolute;
+      top: 14.3rem;
+      font-weight: 400;
+      color: #6f6f6f;
+      width: 4.3rem;
+      left: 16.8rem;
+      font-size: 1.4rem;
+    }
+    .rectangle-30-PMq {
+      top: 0;
+      background-color: #7fc06c;
+      width: 36rem;
+      height: 15.3rem;
+      position: absolute;
+      left: 0;
+    }
+    .rectangle-31-XU3 {
+      vertical-align: top;
+      opacity: 0.07;
+      width: 35.8rem;
+      height: 15.3rem;
+      position: absolute;
+      left: 0.2rem;
+      top: 0;
+      object-fit: cover;
+    }
+    .rectangle-35-Few {
+      background-color: #fbc95c;
+      border-radius: 2rem;
+      width: 17.7rem;
+      height: 2.8rem;
+      position: absolute;
+      left: 9.1rem;
+      top: 13.9rem;
+    }
+    .item--mtB {
+      left: 2rem;
+      top: 2.5rem;
+      font-size: 3.2rem;
+      line-height: 1.2125;
+      width: 34.6rem;
+      height: 3.9rem;
+      position: absolute;
+      font-weight: 700;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .item--DkB {
+      width: 13.6rem;
+      height: 1.9rem;
+      position: absolute;
+      left: 2.1rem;
+      top: 6.3rem;
+      font-size: 1.5rem;
+      line-height: 1.2125;
+      font-weight: 400;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .searchfind3519-2-h9Z {
+      height: 1.4rem;
+      position: absolute;
+      left: 10rem;
+      top: 14.6rem;
+      object-fit: cover;
+      vertical-align: top;
+      width: 1.3rem;
+    }
+    .rectangle-36-R5Z {
+      border-radius: 2rem;
+      width: 14.3rem;
+      height: 2rem;
+      position: absolute;
+      left: 11.8rem;
+      top: 14.3rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+    .item--ME7 {
+      left: 16.8rem;
+      top: 14.3rem;
+      font-size: 1.4rem;
+      color: #6f6f6f;
+      font-family: Inter, 'Source Sans Pro';
+      width: 4.3rem;
+      height: 1.7rem;
+      position: absolute;
+      font-weight: 400;
+      line-height: 1.2125;
+      white-space: nowrap;
+    }
+  }
+  .item--FaP {
+    flex-shrink: 0;
+    margin-left: 2.9rem;
+    font-size: 2.4rem;
+    font-weight: 500;
+    line-height: 1.2125;
+    color: #000000;
+    font-family: Inter, 'Source Sans Pro';
+    white-space: nowrap;
+  }
+  .auto-group-tj2o-N9D {
+    box-sizing: border-box;
+    padding: 2.6rem 1rem 5.5rem 2rem;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    .auto-group-ukkd-5ZR {
+      height: 9.5rem;
+      display: flex;
+      align-items: flex-start;
+      flex-shrink: 0;
+      margin-bottom: 2.3rem;
+      width: 100%;
+
+      .auto-group-jwlb-cJT {
+        flex-shrink: 0;
+        height: 100%;
+        background-size: 100% 100%;
+        background-image: url('REPLACE_IMAGE:b684d26202bc4629f533461bc76b4f5d06f8a73e');
+        background-position: center;
+        border-radius: 4.75rem;
+        margin-right: 0.9rem;
+        width: 9.5rem;
+        background-repeat: no-repeat;
+
+        .ellipse-16-Yhu {
+          width: 100%;
+          height: 9.5rem;
+          cursor: pointer;
+          background-size: 100% 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:b684d26202bc4629f533461bc76b4f5d06f8a73e');
+          border-radius: 4.75rem;
+        }
+      }
+      .auto-group-6djd-Eqd {
+        margin-top: 0.6rem;
+        width: 22.6rem;
+        flex-shrink: 0;
+
+        .auto-group-qkm9-z47 {
+          height: 1.9rem;
+          position: relative;
+          margin: 0rem 0rem 0.4rem 1.4rem;
+          width: 12.7rem;
+
+          .item--JKh {
+            font-size: 1.5rem;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            height: 1.9rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-weight: 400;
+            width: 12.7rem;
+          }
+          .item--PM9 {
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            width: 12.7rem;
+            position: absolute;
+            top: 0;
+            font-size: 1.5rem;
+            white-space: nowrap;
+            height: 1.9rem;
+            left: 0;
+          }
+        }
+        .auto-group-g4px-Tbu {
+          margin-bottom: 0.1rem;
+          width: 100%;
+          height: 0.1rem;
+          border-top: solid 0.1rem #7fc06c;
+          box-sizing: border-box;
+        }
+        .item-2-5-66-yq9 {
+          margin: 0rem 0rem 0.6rem 0.6rem;
+          font-size: 1.5rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-hdhr-3q1 {
+          margin-left: 0.6rem;
+          width: 10.4rem;
+          height: 1.9rem;
+          position: relative;
+
+          .item-45--nnb {
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 10.4rem;
+            height: 1.9rem;
+            left: 0;
+            font-size: 1.5rem;
+            line-height: 1.2125;
+            position: absolute;
+            top: 0;
+            font-weight: 400;
+            color: #000000;
+          }
+          .item-45--hPm {
+            left: 0;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 10.4rem;
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            font-size: 1.5rem;
+          }
+          .item-45--bk3 {
+            font-size: 1.5rem;
+            font-weight: 400;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            line-height: 1.2125;
+            white-space: nowrap;
+            width: 10.4rem;
+            left: 0;
+          }
+          .item-45--W6K {
+            width: 10.4rem;
+            position: absolute;
+            left: 0;
+            font-size: 1.5rem;
+            font-weight: 400;
+            height: 1.9rem;
+            top: 0;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .auto-group-pw19-bdZ {
+      width: calc(100% - 0.1rem);
+      height: 9.5rem;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0rem 0rem 2.5rem 0.1rem;
+
+      .auto-group-xaph-7ro {
+        margin-right: 0.8rem;
+        height: 100%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('REPLACE_IMAGE:cf6d0326df235b869de8a9086440893a8030b6bc');
+        border-radius: 5.2rem;
+        flex-shrink: 0;
+
+        .image-10-sLB {
+          vertical-align: top;
+          border-radius: 5.2rem;
+          width: 9.5rem;
+          height: 9.5rem;
+          cursor: pointer;
+          object-fit: cover;
+        }
+      }
+      .auto-group-mvry-ye7 {
+        row-gap: 0.3rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 1.1rem 0rem 1.7rem 0rem;
+        width: 22.6rem;
+        height: calc(100% - 2.8rem);
+
+        .auto-group-szrq-Uqm {
+          width: 14.5rem;
+          height: 1.9rem;
+          position: relative;
+          flex-shrink: 0;
+          margin-left: 1.4rem;
+
+          .item--RW7 {
+            font-size: 1.5rem;
+            white-space: nowrap;
+            height: 1.9rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            width: 14.5rem;
+          }
+          .item--X3M {
+            left: 0;
+            top: 0;
+            font-size: 1.5rem;
+            position: absolute;
+            height: 1.9rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 14.5rem;
+          }
+        }
+        .auto-group-fhcj-c4o {
+          flex-shrink: 0;
+          width: 100%;
+          height: 0.1rem;
+          border-top: solid 0.1rem #7fc06c;
+          box-sizing: border-box;
+        }
+        .item-17-9-66-LmV {
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.6rem;
+          font-size: 1.5rem;
+          font-weight: 400;
+        }
+        .auto-group-6367-2eK {
+          margin-left: 0.7rem;
+          width: 10.4rem;
+          height: 1.9rem;
+          position: relative;
+          flex-shrink: 0;
+
+          .item-45--AkX {
+            width: 10.4rem;
+            font-size: 1.5rem;
+            line-height: 1.2125;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            color: #000000;
+            height: 1.9rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-weight: 400;
+          }
+          .item-45--H4T {
+            left: 0;
+            font-weight: 400;
+            line-height: 1.2125;
+            white-space: nowrap;
+            width: 10.4rem;
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            font-size: 1.5rem;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .item-45--n1D {
+            width: 10.4rem;
+            height: 1.9rem;
+            top: 0;
+            font-size: 1.5rem;
+            line-height: 1.2125;
+            color: #000000;
+            white-space: nowrap;
+            position: absolute;
+            left: 0;
+            font-weight: 400;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .item-45--gcP {
+            width: 10.4rem;
+            left: 0;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            font-size: 1.5rem;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+          }
+        }
+      }
+    }
+    .auto-group-ungo-P11 {
+      flex-shrink: 0;
+      margin-left: 0.1rem;
+      width: calc(100% - 0.1rem);
+      height: 9.5rem;
+      display: flex;
+      align-items: center;
+
+      .auto-group-sevd-WbR {
+        background-image: url('REPLACE_IMAGE:60857397488b9dc529aeb110aa0f6ad3b9635eb1');
+        border-radius: 5.2rem;
+        flex-shrink: 0;
+        margin-right: 0.8rem;
+        height: 100%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-position: center;
+
+        .image-11-TmZ {
+          object-fit: cover;
+          vertical-align: top;
+          border-radius: 5.2rem;
+          width: 9.5rem;
+          height: 9.5rem;
+          cursor: pointer;
+        }
+      }
+      .auto-group-sn5d-yju {
+        width: 22.6rem;
+        height: calc(100% - 2.8rem);
+        flex-shrink: 0;
+        margin: 0.9rem 0rem 1.9rem 0rem;
+
+        .auto-group-t5ax-hfu {
+          margin: 0rem 3.1rem 0.3rem 1.4rem;
+          width: calc(100% - 4.5rem);
+          height: 1.9rem;
+          position: relative;
+
+          .item--1wV {
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            width: 18.1rem;
+            position: absolute;
+            top: 0;
+            color: #000000;
+            line-height: 1.2125;
+            height: 1.9rem;
+            left: 0;
+            font-size: 1.5rem;
+            font-weight: 400;
+          }
+          .item--J9u {
+            left: 0;
+            font-family: Inter, 'Source Sans Pro';
+            white-space: nowrap;
+            color: #000000;
+            width: 18.1rem;
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            font-size: 1.5rem;
+            font-weight: 400;
+            line-height: 1.2125;
+          }
+        }
+        .auto-group-geik-y19 {
+          box-sizing: border-box;
+          margin-bottom: 0.6rem;
+          width: 100%;
+          height: 0.1rem;
+          border-top: solid 0.1rem #7fc06c;
+        }
+        .item-23-2-67-VEP {
+          margin-left: 0.6rem;
+          font-size: 1.5rem;
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+        .auto-group-wzhv-yfM {
+          margin-left: 0.7rem;
+          width: 10.4rem;
+          height: 1.9rem;
+          position: relative;
+
+          .item-45--hrF {
+            left: 0;
+            top: 0;
+            line-height: 1.2125;
+            color: #000000;
+            white-space: nowrap;
+            width: 10.4rem;
+            height: 1.9rem;
+            position: absolute;
+            font-size: 1.5rem;
+            font-weight: 400;
+            font-family: Inter, 'Source Sans Pro';
+          }
+          .item-45--D3u {
+            white-space: nowrap;
+            width: 10.4rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            font-weight: 400;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            height: 1.9rem;
+            font-size: 1.5rem;
+            line-height: 1.2125;
+          }
+          .item-45--iFZ {
+            left: 0;
+            font-size: 1.5rem;
+            font-weight: 400;
+            font-family: Inter, 'Source Sans Pro';
+            color: #000000;
+            white-space: nowrap;
+            width: 10.4rem;
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            line-height: 1.2125;
+          }
+          .item-45--21M {
+            height: 1.9rem;
+            position: absolute;
+            top: 0;
+            font-size: 1.5rem;
+            white-space: nowrap;
+            width: 10.4rem;
+            font-weight: 400;
+            line-height: 1.2125;
+            color: #000000;
+            font-family: Inter, 'Source Sans Pro';
+            left: 0;
+          }
+        }
+      }
+    }
+  }
+}

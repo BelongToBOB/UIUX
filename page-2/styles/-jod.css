@@ -1,0 +1,485 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.item--EVD {
+  width: 100%;
+  height: 64rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.item--EVD .rectangle-1-WBq {
+  width: 36rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f7ede6;
+}
+.item--EVD .rectangle-4-eYw {
+  width: 36rem;
+  height: 64rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f7ede6;
+  border-radius: 3.1rem;
+}
+.item--EVD .christmas-star113367-2-yr7 {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 28.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--EVD .maxresdefault-1-hXD {
+  width: 39.5rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--EVD .rectangle-7-dfm {
+  width: 36.6rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.item--EVD .rectangle-29-nHm {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 2rem;
+  top: 33.2rem;
+  background-color: #7fc06c;
+}
+.item--EVD .rectangle-30-KYb {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 33.2rem;
+  background-color: #7fc06c;
+}
+.item--EVD .rectangle-31-Teo {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 2rem;
+  top: 49.2rem;
+  background-color: #7fc06c;
+}
+.item--EVD .rectangle-32-CcP {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 49.2rem;
+  background-color: #7fc06c;
+}
+.item--EVD .rectangle-38-jsD {
+  width: 13rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 41.8rem;
+  background-color: #fbc95c;
+}
+.item--EVD .rectangle-41-g1m {
+  width: 12.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 57.6rem;
+  background-color: #fbc95c;
+}
+.item--EVD .rectangle-40-DGb {
+  width: 12.9rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2rem;
+  top: 57.5rem;
+  background-color: #fbc95c;
+}
+.item--EVD .photo-1-wTV {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .njp3agti5nbaopooohv5-1-4Y7 {
+  width: 12.9rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.7rem;
+}
+.item--EVD .item-50--yf5 {
+  width: 13.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 43.7rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EVD .rectangle-39-dUj {
+  width: 13rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 41.8rem;
+  background-color: #fbc95c;
+}
+.item--EVD .r-1-NSK {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 19.9rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .item-1-1-hDh {
+  width: 13.1rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.item--EVD .item-40--zCo {
+  width: 9.7rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 23.2rem;
+  top: 43.7rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EVD .r-1-1-Gw1 {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 2rem;
+  top: 50.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .item-40--og3 {
+  width: 10.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 4.4rem;
+  top: 59.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EVD .item-1-VHy {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 50.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .item-60--6Yf {
+  width: 12.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 22.3rem;
+  top: 59.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EVD .item--meo {
+  width: 6.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 31rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EVD .imdv-hero-1-4P1 {
+  width: 36rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 2rem 0 0;
+}
+.item--EVD .image-8-NuV {
+  width: 36.3rem;
+  height: 22.4rem;
+  position: absolute;
+  left: 0;
+  top: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--EVD .group-9-iCf {
+  box-sizing: border-box;
+  padding: 1.3rem 0rem 0.7rem 0rem;
+  width: 21.3rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 7.9rem;
+  top: 19.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #7fc06c;
+  border-radius: 3rem;
+}
+.item--EVD .group-9-iCf .item--Brw {
+  margin: 0rem 0rem 0.4rem 0.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-p5s5-5SX {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1.9rem 0.9rem 0.6rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #fbc95c;
+  border-radius: 1.7rem;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-p5s5-5SX .searchfind3519-1-bQs {
+  margin-right: 0.1rem;
+  width: 2.6rem;
+  height: 2.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-p5s5-5SX .auto-group-ndyh-KLs {
+  margin-top: 0.7rem;
+  box-sizing: border-box;
+  padding: 0 0.2rem;
+  width: 16.1rem;
+  height: 1.9rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #ffffff;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 {
+  margin: 0rem 3.8rem 0rem 4.5rem;
+  width: calc(100% - 8.3rem);
+  height: 1.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo {
+  width: 7.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 0;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo .christmas-star113367-1-Coy {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo .christmas-star113367-4-vzs {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo .christmas-star113367-5-4rB {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo .group-1-br7 {
+  width: 7.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo .group-1-br7 .christmas-star113367-3-Loh {
+  margin-right: 4.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .group-2-sWo .group-1-br7 .christmas-star113367-6-HD9 {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--EVD .group-9-iCf .auto-group-fjgj-wt3 .item-50-DsV {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--EVD .a22021148b0b7497320ea918568-1-tij {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 50.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .item-1-1HZ {
+  width: 13rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 2rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+}
+.item--EVD .image-6-ebR {
+  width: 12.9rem;
+  height: 8.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.7rem;
+}
+.item--EVD .american-fried-rice1-1-1-N1d {
+  width: 13.1rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 19.8rem;
+  top: 50.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .rectangle-66-5wd {
+  width: 13rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 19.8rem;
+  top: 50.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.8rem;
+}
+.item--EVD .rectangle-70-D2F {
+  width: 13.1rem;
+  height: 8.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 19.8rem;
+  top: 34.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--EVD .rectangle-70-89D {
+  width: 12.9rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2rem;
+  top: 50.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}

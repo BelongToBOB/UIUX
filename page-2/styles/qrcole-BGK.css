@@ -1,0 +1,191 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.qrcole-BAP {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede6;
+}
+.qrcole-BAP .auto-group-xvrz-85d {
+  width: 100%;
+  height: 5.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-xvrz-85d .rectangle-9-UvB {
+  width: 36rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.qrcole-BAP .auto-group-xvrz-85d .rectangle-53-EPZ {
+  width: 36rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 3.4rem;
+  background-color: #f7ede6;
+  border-radius: 2.5rem;
+}
+.qrcole-BAP .auto-group-gceb-AY7 {
+  box-sizing: border-box;
+  padding: 2rem 1.3rem 8.7rem 1.3rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .auto-group-cptq-Hcj {
+  margin: 0rem 0.7rem 5.8rem 1.8rem;
+  box-sizing: border-box;
+  padding: 0.4rem 0.4rem 0.5rem 0.4rem;
+  width: calc(100% - 2.5rem);
+  background-color: #7fc06c;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .auto-group-cptq-Hcj .item--zn3 {
+  max-width: 28.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.qrcole-BAP .auto-group-gceb-AY7 .pngegg-1-1-PpB {
+  margin-bottom: 7rem;
+  width: 12rem;
+  height: 12rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .line-12-815 {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #7fc06c;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .group-10-U4w {
+  margin: 0rem 6.133rem 1.1rem 6.2rem;
+  width: calc(100% - 12.3333rem);
+  height: 4.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .group-10-U4w .christmas-star113367-1-ynP {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .group-10-U4w .christmas-star113367-4-iEB {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .group-10-U4w .christmas-star113367-5-3nF {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 12rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .group-10-U4w .christmas-star113367-3-ZEo {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .group-10-U4w .christmas-star113367-6-Hgb {
+  width: 4.8rem;
+  height: 4.8rem;
+  position: absolute;
+  left: 16.2667rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .auto-group-38zk-Dq9 {
+  margin: 0rem 7.8rem 1.6rem 7.8rem;
+  width: calc(100% - 15.6rem);
+  height: 3.9rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7fc06c;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .auto-group-xvzy-bao {
+  margin: 0rem 8.15rem 0rem 7.95rem;
+  width: calc(100% - 16.1rem);
+  height: 3.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .auto-group-xvzy-bao .rectangle-74-vd5 {
+  width: 14.9rem;
+  height: 3.3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 1.25rem;
+  top: 0;
+  background-color: rgba(255, 0, 0, 0.6899999976);
+  border-radius: 1.5rem;
+}
+.qrcole-BAP .auto-group-gceb-AY7 .auto-group-xvzy-bao .item--eJB {
+  width: 17.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0.2rem;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}

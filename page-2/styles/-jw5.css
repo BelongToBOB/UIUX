@@ -1,0 +1,475 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.item--Vaw {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede6;
+  border-radius: 3.1rem;
+}
+.item--Vaw .rectangle-7-ByZ {
+  width: 100%;
+  height: 3.2rem;
+  background-color: #7fc06c;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-c4hu-XnX {
+  width: 100%;
+  height: 27.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-c4hu-XnX .christmas-star113367-2-FyR {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 25.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .maxresdefault-1-mgs {
+  width: 39.5rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .christmas-star113367-1-Jgo {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 25.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .christmas-star113367-4-271 {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 20.9rem;
+  top: 25.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .christmas-star113367-5-Yr3 {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 22.4rem;
+  top: 25.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .cuvg-hero-1-stK {
+  width: 36.3rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .rectangle-6-DhH {
+  width: 21.3rem;
+  height: 11.1rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 16.7rem;
+  background-color: #7fc06c;
+  border-radius: 3rem;
+}
+.item--Vaw .auto-group-c4hu-XnX .item--wtB {
+  width: 16rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 14.7rem;
+  top: 18.2rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-c4hu-XnX .rectangle-9-Dao {
+  width: 21.3rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 20.3rem;
+  background-color: #fbc95c;
+  border-radius: 1.7rem;
+}
+.item--Vaw .auto-group-c4hu-XnX .searchfind3519-1-wWo {
+  width: 2.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 8.9rem;
+  top: 21.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .line-1-TV9 {
+  width: 16.1rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 24rem;
+  background-color: #ffffff;
+}
+.item--Vaw .auto-group-c4hu-XnX .item--bLT {
+  width: 15.2rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 11.8rem;
+  top: 22.2rem;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-c4hu-XnX .item-50-FA7 {
+  width: 5.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 25.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM {
+  width: 7.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 18rem;
+  top: 25.3rem;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM .christmas-star113367-1-sBV {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM .christmas-star113367-4-zmu {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM .christmas-star113367-5-jUb {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM .group-1-ebZ {
+  width: 7.9rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM .group-1-ebZ .christmas-star113367-3-z9d {
+  margin-right: 4.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-c4hu-XnX .group-3-LhM .group-1-ebZ .christmas-star113367-6-v3H {
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item--Vaw .item--SXR {
+  margin-left: 2.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K {
+  box-sizing: border-box;
+  padding: 0.9rem 0rem 1.8rem 2.4rem;
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq {
+  margin-bottom: 3rem;
+  width: 100%;
+  height: 13rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-6mpm-Q6s {
+  margin-right: 3.3rem;
+  width: 14.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-6mpm-Q6s .rectangle-29-XxB {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-6mpm-Q6s .rectangle-38-t23 {
+  width: 13rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  background-color: #fbc95c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-6mpm-Q6s .photo-1-1cT {
+  width: 13rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-6mpm-Q6s .item-45--jHZ {
+  width: 13.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.2rem;
+  top: 10.3rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-m6rd-BQT {
+  width: 17.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-m6rd-BQT .rectangle-30-vsq {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-m6rd-BQT .rectangle-39-gMD {
+  width: 13rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  background-color: #fbc95c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-m6rd-BQT .r-1-ckf {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-m6rd-BQT .item-55--MCT {
+  width: 17.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 10.3rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-2ymv-sMq .auto-group-m6rd-BQT .cover-1-QRd {
+  width: 13rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF {
+  margin-right: 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 13rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-ckph-GTq {
+  margin-right: 3.2rem;
+  width: 14.6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-ckph-GTq .rectangle-31-QK9 {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-ckph-GTq .rectangle-40-wK5 {
+  width: 13rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0;
+  top: 8.4rem;
+  background-color: #fbc95c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-ckph-GTq .r-1-1-siX {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-ckph-GTq .item-40--iz3 {
+  width: 11.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 10.2rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-ckph-GTq .r-2-1-C8X {
+  width: 13rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-xrsj-uod {
+  width: 15.1rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-xrsj-uod .rectangle-32-fH1 {
+  width: 13rem;
+  height: 13rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #7fc06c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-xrsj-uod .rectangle-41-q51 {
+  width: 13rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 8.4rem;
+  background-color: #fbc95c;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-xrsj-uod .item-1-NKq {
+  width: 13rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 0;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-xrsj-uod .item-60--YtX {
+  width: 11rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 10.2rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.item--Vaw .auto-group-recp-k2K .auto-group-1jxh-XWF .auto-group-xrsj-uod .oip-1-p5M {
+  width: 12.9rem;
+  height: 8.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0.1rem;
+  top: 1.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.9rem;
+}

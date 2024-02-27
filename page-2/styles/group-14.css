@@ -1,0 +1,68 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 94.9rem;
+}.group-14-okB {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.group-14-okB .auto-group-ybgt-N2b {
+  margin: 1.5rem 12.6rem 0rem 0rem;
+  width: 26rem;
+  height: 24.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #7fc06c;
+  flex-shrink: 0;
+}
+.group-14-okB .auto-group-1vzj-DJ7 {
+  margin: 0rem 8.4rem 1.5rem 0rem;
+  width: 21.9rem;
+  height: 24.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/frame-1.png');
+  flex-shrink: 0;
+}
+.group-14-okB .auto-group-whap-Ty9 {
+  box-sizing: border-box;
+  padding: 11rem 2.8rem 12rem 9.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f7ede6;
+  flex-shrink: 0;
+}

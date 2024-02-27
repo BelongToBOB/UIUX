@@ -1,0 +1,231 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 36rem;
+}.login-9S7 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #f7ede6;
+}
+.login-9S7 .auto-group-ftcs-t8o {
+  margin-bottom: 1.1rem;
+  width: 100%;
+  height: 19.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-9S7 .auto-group-ftcs-t8o .rectangle-37-DRy {
+  width: 36rem;
+  height: 10.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #7fc06c;
+}
+.login-9S7 .auto-group-ftcs-t8o .rectangle-38-xPZ {
+  width: 36rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 0;
+  top: 8.6rem;
+  box-shadow: inset 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f7ede6;
+  border-radius: 2rem;
+}
+.login-9S7 .auto-group-ftcs-t8o .username-f35 {
+  width: 8.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 12.1rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-9S7 .auto-group-ftcs-t8o .rectangle-17-xns {
+  width: 28.1rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 4rem;
+  top: 14.7rem;
+  background-color: #fbc95c;
+  border-radius: 1.5rem;
+}
+.login-9S7 .auto-group-ftcs-t8o .login-gym {
+  width: 9rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 13.55rem;
+  top: 3.1rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-9S7 .auto-group-ftcs-t8o .chayangkoontarmutiacth-oYb {
+  width: 20.3rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 5.8rem;
+  top: 16.1rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-9S7 .password-VRR {
+  margin-left: 4.1rem;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-9S7 .auto-group-ruj5-DsD {
+  box-sizing: border-box;
+  padding: 1rem 0.67rem 1.6rem 0.531rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-c9bv-x47 {
+  margin: 0rem 3.23rem 3.6rem 3.469rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.9rem 1.1rem 1.9rem;
+  width: calc(100% - 6.699rem);
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #fbc95c;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+  
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-l6md-1HH {
+  margin: 0rem 10.93rem 2rem 11.269rem;
+  width: calc(100% - 22.199rem);
+  height: 4.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj {
+  width: 100%;
+  height: 24.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .rectangle-33-mfm {
+  width: 21rem;
+  height: 4.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.2691rem;
+  top: 0;
+  border: solid 0.02rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .create-new-account-3tB {
+  width: 16.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 9.7191rem;
+  top: 1.3rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .eating-1-vh5 {
+  width: 17.7rem;
+  height: 17.7rem;
+  position: absolute;
+  left: 8.6691rem;
+  top: 6.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .paprika-1-cK1 {
+  width: 8.478rem;
+  height: 8.478rem;
+  position: absolute;
+  left: 0.8691rem;
+  top: 4.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .tomatoes-1-u3D {
+  width: 10.3299rem;
+  height: 10.3299rem;
+  position: absolute;
+  left: 24.4691rem;
+  top: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .vegetable-1-ciK {
+  width: 8.2204rem;
+  height: 8.2204rem;
+  position: absolute;
+  left: 25.5691rem;
+  top: 13.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-9S7 .auto-group-ruj5-DsD .auto-group-uen3-Evj .broccoli-1-kJj {
+  width: 10.9097rem;
+  height: 10.9097rem;
+  position: absolute;
+  left: 0;
+  top: 11.831rem;
+  object-fit: cover;
+  vertical-align: top;
+}
